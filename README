@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=317
+
+This is a vera.vim syntax file.  It
+has been updated to reflect Vera 5.0.
+Deprecated tasks in the language are
+now linked to "Error" in order to
+highlight them in the code.
